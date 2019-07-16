@@ -3,6 +3,8 @@ A template for presenting PowerPoint slides as a web page
 
 This repository is a fully responsive slide presentation web page;
 
+You can see a sample of this template here: https://slide-template.yitzchokkirsh.com/#slide2
+
 ~~ HOW TO USE ~~
 
 1. Save your PowerPoint presentation as JPGs. (make sure to leave the default names of the JPGs i.e. Slide1.JPG, Slide2.JPG etc.)
