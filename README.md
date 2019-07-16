@@ -3,7 +3,7 @@ A template for presenting PowerPoint slides as a web page
 
 This repository is a fully responsive slide presentation web page;
 
-You can see a sample of this template here: https://slide-template.yitzchokkirsh.com/#slide2
+You can see a sample of this template here: https://slide-template.yitzchokkirsh.com
 
 ~~ HOW TO USE ~~
 
